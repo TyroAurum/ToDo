@@ -1,0 +1,43 @@
+.main-todo{
+  text-align: center;
+  margin-top: 15%;
+
+}
+.App{
+  background-color: rgb(222, 13, 255);
+}
+
+header{
+  margin-bottom: 5%;
+}
+
+input{
+  width: 235px;
+  height: 25px;
+  border: none;
+
+}
+input:focus{
+  outline: none;
+}
+button{
+  height: 27px;
+  width: 50px;
+  border: none;
+  background-color: rgb(131, 229, 249)
+}
+
+.App {
+  width: 30%;
+  margin: auto;
+}
+
+.input-sec{
+  padding-bottom: 5%;
+  padding-top: 2%;
+  color: rgb(255, 255, 255);
+}
+
+.tasklist{
+  background-color: rgb(255, 182, 182);
+}

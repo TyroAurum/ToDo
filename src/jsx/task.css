@@ -1,0 +1,21 @@
+.chkbox-task{
+    width: 14px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 2vw;
+    
+}
+
+.taskman{
+    padding-left: 10%;
+    padding-right: 20%;
+}
+
+
+.single-task{
+    display: inline-flex;
+    
+    
+}
+
+
